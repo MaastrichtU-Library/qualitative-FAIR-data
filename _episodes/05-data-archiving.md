@@ -44,23 +44,27 @@ Datasets are archived in **Data repositories**. They are storage locations for d
 >
 {: .callout}
 
-Examples of data repositories  
+Examples of data repositories  **(Including Qualitative Datasets)**
 
 | Data Repository | About |
 |---|---|
-|[DataverseNL](https://dataverse.nl/dataverse) <img src="https://dataverse.nl/assets/logos/DataverseNL-logo.png" alt="dataverse" style="width:30x;height:15x;"> | DataverseNL is a community-specific repository it focuses on Dutch universities and research centers|
-|[4TU Data](https://data.4tu.nl/) <img src="https://data.4tu.nl/fileadmin/Tmpl/Images/4TU-logo.png" alt="4tu" style="width:30x;height:15x;"> | 4TU Data is a community repository which was originally created by three technical universities in the Netherlands|
-|[PANGEA](https://pangaea.de/) <img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/04-1.png" alt="pangea" style="width:30x;height:15x;"> | PANGEA is a community-specific repository that focuses on Earth & Environmental Science| 
-|[FigShare](https://figshare.com/) <img src="https://websitev3-p-eu.figstatic.com/assets-v3/2fa5d16c00fb00c8f5413b230e05e1c55e745c36/static/media/defaultLogo.30adffde.png" alt="figshare" style="width:30x;height:15x;"> | FigShare is an open generic data repository for general purposes, it can store data and other digital objects| 
+|[DataverseNL](https://dataverse.nl/dataverse) <img src="https://dataverse.nl/assets/logos/DataverseNL-logo.png" alt="dataverse" width="200" height="100"> | DataverseNL is a community-specific repository it focuses on Dutch universities and research centers|
+|[4TU Data](https://data.4tu.nl/) <img src="https://data.4tu.nl/fileadmin/Tmpl/Images/4TU-logo.png" alt="4tu" width="200" height="70"> | 4TU Data is a community repository which was originally created by three technical universities in the Netherlands|
+|[The Qualitative Data Repository](https://qdr.syr.edu/) <img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/04-1-II.png" alt="qdr_syr" width="150" height="100"> | Hosted by the Center for Qualitative and Multi-Method Inquiry, a unit of the Maxwell School of Citizenship and Public Affairs at Syracuse University| 
+|[DARIAH-DE](https://repository.de.dariah.eu/search/) <img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/04-2-II.png" alt="dariah-de" width="200" height="100">  | The DARIAH-DE repository is part of the DARIAH Thematic Service funded by EOSC hub (Available in german| 
 
-Just like FigShare, many data repositories are for general use. They provide a low entry barrier to making data **Findable** addressing FM-F1A (Identifier Uniqueness) and FM-F3 (Resource Identifier in Metadata). 
+
+
+Just like DataverseNL, many data repositories are for general use. They provide a low entry barrier to making data **Findable** addressing FM-F1A (Identifier Uniqueness) and FM-F3 (Resource Identifier in Metadata). 
 
 <br> 
 
 > ## Recommendations for general purpose data repositories
 > [ZENODO](https://zenodo.org/) administrated by [CERN](https://home.cern/)  
-> [SURF Repository](https://repository.surfsara.nl/) administrated by [SURF](https://www.surf.nl/)  
-> [DataverseNL](https://dataverse.nl/)  administrated by [DANS](https://dans.knaw.nl/en/)
+> [SURF Repository](https://repository.surfsara.nl/) administrated by [SURF](https://www.surf.nl/)   
+> [DataverseNL](https://dataverse.nl/)  administrated by [DANS](https://dans.knaw.nl/en/)  
+> [FigShare](https://figshare.com/)  administrated by [Figshare LLC](https://knowledge.figshare.com/about)  
+> [Wolfram Data Repository](https://datarepository.wolframcloud.com/)  administrated by [Wolfram Research, Inc.](https://www.wolfram.com/)  
 {: .callout}
 
 <br> 
@@ -91,7 +95,8 @@ Quick characteristics of general purpose repositories:
 > **PLOS ONE Recommended Repositories**  → [journals.plos.org/plosone/s/recommended-repositories](https://journals.plos.org/plosone/s/recommended-repositories)  
 > **NIH Recommended Repositories:**  → [sharing.nih.gov/repositories-for-sharing-scientific-data](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data)  
 > **Nature - Scientific Data Guidelines:**  → [nature-com.mu.idm.oclc.org/sdata/policies/repositories](https://www-nature-com.mu.idm.oclc.org/sdata/policies/repositories)  
-> **OpenDOAR - Directory of Open Access Repositories**  →  [v2.sherpa.ac.uk/opendoar/](https://v2.sherpa.ac.uk/opendoar/)
+> **OpenDOAR - Directory of Open Access Repositories**  →  [v2.sherpa.ac.uk/opendoar/](https://v2.sherpa.ac.uk/opendoar/)   
+> **Digital Research Infrastructure for the Arts and Humanities (DARIAH)**  →  [ariah.openaire.eu/](https://dariah.openaire.eu/)   
 {: .prereq}
 
 <br> 
