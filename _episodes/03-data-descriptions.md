@@ -42,12 +42,13 @@ Depending on the use case and field of research, these data descriptions are als
 
 For example:  
 
-|Variable Name | Description| Scale|
+
+
+|Attribute Name | Description| Data type|
 |---|---|---|
-|Weight | Weight of a human | kilograms|
-|Height | Height of a human | centimetres |
-|Age | Age of a human | years|
-|Blood Glucose Level |Blood glucose level of a human | mg/dl|
+|Litigation | Name of litigation (case law) | Text|
+|Jurisdiction | Organisation of the legal system | Category |
+|Sector | Concernd sector of the case | Category|
 
 > ## "Data Descriptions" is sometimes named differently depending on the field
 >
@@ -56,20 +57,20 @@ For example:
 
 ### 2. How to reuse Data Descriptions?
 
-Documentation of any kind always takes time. However, we shall always aim to reuse existing data descriptions generally accepted in the community. i.e. the variable `Weight` is a concept that has been widely used in research; therefore, we don't need to redefine it every time.  
+Documentation of any kind always takes time. However, we shall always aim to reuse existing data descriptions generally accepted in the community. i.e. the variable `Litigation` is a concept that has been widely used in legal and politcal studies; therefore, we don't need to redefine it every time.  
 
-For example, in [BioPortal](https://bioportal.bioontology.org/), we can find existing descriptions of `Weight`. These descriptions belong to an [Ontology](https://en.wikipedia.org/wiki/Ontology_(information_science)), i.e. a community-accepted online dictionary for curated terms and definitions. Moreover, it provides a globally unique identifier to the description.  → [LINK TO EXAMPLE](https://bioportal.bioontology.org/)  
+For example, in [EU Vocabularies](https://op.europa.eu/en/web/eu-vocabularies), we can find existing descriptions of `Litigation`. These descriptions belong to an [Ontology](https://en.wikipedia.org/wiki/Ontology_(information_science)), i.e. a community-accepted online dictionary for curated terms and definitions. Moreover, it provides a globally unique identifier to the description.  → [LINK TO EXAMPLE](https://op.europa.eu/en/web/eu-vocabularies/search-results?p_p_id=eu_europa_publications_portlet_search_executor_SearchExecutorPortlet_INSTANCE_3bGTrb8CGSGe&p_p_lifecycle=1&p_p_state=normal&queryText=litigation&facet.collection=EUVoc)  
 
 <br>
-<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/03-1.png" alt="bioportal 1" style="max-width: 60%; height: auto;">
+<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/03-1-II.png" alt="eurovoc 1" style="max-width: 60%; height: auto;">
 <br>
-You will get several results when searching for a term and its definition. These results regard the different ontologies that define these terms. For example, think of the description of an apple. It might be defined differently in a British dictionary than in an American one.
+You will get several results when searching for a term and its definition. These results regard the different ontologies that define these terms. For example, think of the description of a musical instrument. It might be defined differently in a British dictionary than in an American one.
 <br>
-<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/03-2.png" alt="bioportal 2" style="max-width: 60%; height: auto;">
+<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/03-2-II.png" alt="eurovoc 2" style="max-width: 60%; height: auto;">
 <br>
 Finally, using this Ontology, you can get a standard definition that community experts curate has a global identifier.  
 <br>
-<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/03-3.png" alt="bioportal 3" style="max-width: 60%; height: auto;">
+<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/03-3-II.png" alt="eurovoc 3" style="max-width: 60%; height: auto;">
 <br>
 
 > ## Describe your data by reusing Ontology terms  
@@ -86,18 +87,24 @@ Finally, using this Ontology, you can get a standard definition that community e
 ### 3. Are there standard ways for doing Data Descriptions?
 
 There are no standard ways of doing Data Descriptions.  
-The minimum elements you need to describe your dataset are the **Variable Name** and the **Link to Description**. You can do that in a tabular format. However, following the FAIR principles of Interoperability and Reusability, we must ensure that the data is described using community standard FAIR vocabularies. Here are some Ontologies for general use that can cover a wide variety of data attributes
+The minimum elements you need to describe your dataset are the **Attribute Name** and the **Link to Description**. You can do that in a tabular format. However, following the FAIR principles of Interoperability and Reusability, we must ensure that the data is described using community standard FAIR vocabularies. Here are some Ontologies for general use that can cover a wide variety of data attributes
 
 |Ontology | Link | About what?|
 | ---| ---|
 |Schema.org | [LINK](https://schema.org/)| Definitions of generic things e.g. "Computer"|
 |DBpedia | [LINK](https://www.dbpedia.org/resources/lookup/)| Definitions from Wikipedia |
-|Data Catalog Vocabulary (DCAT) | [LINK](https://www.w3.org/TR/vocab-dcat-2/)| Definitions about data things e.g. "accessURL"|
 |Dublin Core | [LINK](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/)| Definitions about Metadata|
+|EVO: EVent Ontology | [LINK](http://o4dh.com/event-ontology) | Definitions about historical events (Digital Humanities)|
+|ROAR: Reconstructions and Observations in Archival Resources|[LINK](https://leonvanwissen.nl/vocab/roar/docs/)| Genealogists, Archaeologists and Archivists use it to describe the reconstruction of lives (or places) |
+| The Music Ontology Specification | [LINK](http://musicontology.com/specification/) | Main concepts and properties for describing music (i.e. artists, albums and tracks) on the Semantic Web. |
+| AudioSet ontology | [LINK]https://research.google.com/audioset/ontology/index.html) | All types of sounds, everyday sounds, from human and animal sounds, to natural and environmental sounds, to musical and miscellaneous sounds. |
+| Lexvo.org | [LINK](http://www.lexvo.org/) | Definitions about languages, words, characters, and other human language-related entities |
+
 
 > ## There are also public registries where you can find Ontologies
-> **Linked Open Vocabularies**  → [lov.linkeddata.es/dataset/lov/](https://lov.linkeddata.es/dataset/lov/)  
+> **CLARIAH - Curated list of Ontologies for Digital Humanities**  → [github.com/CLARIAH/awesome-humanities-ontologies](https://github.com/CLARIAH/awesome-humanities-ontologies)  
 > **EU Vocabularies:**  → [op.europa.eu/en/web/eu-vocabularies](https://op.europa.eu/en/web/eu-vocabularies)  
+> **Linked Open Vocabularies**  → [lov.linkeddata.es/dataset/lov/](https://lov.linkeddata.es/dataset/lov/)  
 > **BioPortal:**  → [bioportal.bioontology.org/](https://bioportal.bioontology.org/)  
 > **AgroPortal:**  → [agroportal.lirmm.fr/](http://agroportal.lirmm.fr/)  
 > **EcoPortal** → [ecoportal.lifewatchitaly.eu/](http://ecoportal.lifewatchitaly.eu/)
@@ -108,17 +115,17 @@ The minimum elements you need to describe your dataset are the **Variable Name**
 
 > ## Exercise - Level Easy 🌶
 >
-> 1. Visit [BioPortal](https://bioportal.bioontology.org/). BioPortal is the most known repository for biomedical ontologies  
-> 2. Search for an Ontology term for `blood glucose level` In the "Search for a class" search box.  
-> 3. Select one result related to a clinical measurement that is sound to you.   
+> 1. Visit [EU Vocabularies](https://op.europa.eu/en/web/eu-vocabularies). EU Vocabularies is the reference website for curated vocabularies maintained by the Publications Office of the European Union.  
+> 2. Search for an Ontology term for `Sector` In the "Search our catalogue" search box.  
+> 3. Select one result that describes `Sector` that is sound to you.   
 > 4. What are the definition and ID?  
 > 
 > {: .source}
 >
 > > ## Solution
 > >
-> > Definition: Measurement of the amount of glucose, the monosaccharide sugar, C6H12O6, occurring widely in plant and animal tissues which is one of the three dietary monosaccharides that are absorbed directly into the bloodstream during digestion, is the end product of carbohydrate metabolism, and is the chief source of energy for living organisms, in a specified volume of blood, the fluid that circulates through the heart, arteries, capillaries and veins carrying nutrients and oxygen to the body tissues and metabolites away from them.  
-> > ID: [http://purl.obolibrary.org/obo/CMO_0000046](http://purl.obolibrary.org/obo/CMO_0000046)
+> > Definition: A sector can be a subgroup of an economic activity - as in "coal mining sector" - or a group of economic activities - as in "service sector" - or a cross-section of a group of economic activities - as in "informal sector". "Sector" is also a specific term used in the 1993 United Nations System of National Accounts to denote one of the five mutually exclusive institutional sectors that group together institutional units on the basis of their principal functions, behaviour and objectives, namely: nonfinancial corporations, financial corporations, general government, non-profit institutions serving households (NPISHs) and households.    
+> > ID: [http://publications.europa.eu/resource/authority/sdmxglossary2018/SECTOR](http://publications.europa.eu/resource/authority/sdmxglossary2018/SECTOR)
 > > {: .output}
 > {: .solution}
 {: .challenge}
@@ -126,7 +133,7 @@ The minimum elements you need to describe your dataset are the **Variable Name**
 
 The **Data Descriptions** are usually  manually written in a tabular format. This document has the length and depth that the data owner sees fit. The general rule of thumb is to describe the dataset related to a publication. Any accessible format like `.csv`, `.xls`, or similar is acceptable.  
 
-<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/03-4.png" alt="tabular">
+<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/03-4-II.png" alt="tabular">
 
 In case it is a database, a data model must be included in machine-readable format (e.g. `.sql`) and a human-friendly diagram (e.g. ER model on `.pdf`)
 
@@ -174,7 +181,7 @@ There are several tools that help you to convert your dataset from a conventiona
 
 > ## Discussion  
 > Scenario:  
-You are a marine biology researcher, your group have discovered new organisms, and it's time to create data descriptions. However, there are no available Ontologies to describe the data records, given that they are new scientific discoveries
+You are a digital history researcher, and your group will digitalize technology gadgets and artefacts that are not used anymore (e.g. VHS player), and it's time to create data descriptions. However, there are no available Ontologies to describe the data records, given that they are contemporary history
 > 
 > Discuss with your team what the researcher should do given that apparently there are no available Ontologies to describe their data
 {: .discussion}
