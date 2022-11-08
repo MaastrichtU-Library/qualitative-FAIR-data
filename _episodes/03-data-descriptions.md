@@ -97,7 +97,7 @@ The minimum elements you need to describe your dataset are the **Attribute Name*
 |EVO: EVent Ontology | [LINK](http://o4dh.com/event-ontology) | Definitions about historical events (Digital Humanities)|
 |ROAR: Reconstructions and Observations in Archival Resources|[LINK](https://leonvanwissen.nl/vocab/roar/docs/)| Genealogists, Archaeologists and Archivists use it to describe the reconstruction of lives (or places) |
 | The Music Ontology Specification | [LINK](http://musicontology.com/specification/) | Main concepts and properties for describing music (i.e. artists, albums and tracks) on the Semantic Web. |
-| AudioSet ontology | [LINK]https://research.google.com/audioset/ontology/index.html) | All types of sounds, everyday sounds, from human and animal sounds, to natural and environmental sounds, to musical and miscellaneous sounds. |
+| AudioSet ontology | [LINK](https://research.google.com/audioset/ontology/index.html) | All types of sounds, everyday sounds, from human and animal sounds, to natural and environmental sounds, to musical and miscellaneous sounds. |
 | Lexvo.org | [LINK](http://www.lexvo.org/) | Definitions about languages, words, characters, and other human language-related entities |
 
 
