@@ -48,7 +48,7 @@ Image: **Mapping EU Company Mobility & Abuse-Detection**   → [LINK TO EXAMPLE]
 In a strict sense, data access protocols relate to network protocol definitions. However, regarding Research Data, the human factor plays a part. Therefore we can explicitly mention the rules and instructions for accessing data depending on the use case. Sometimes the data can't be publicly available, and there is no particular repository for it. Therefore you request the user to contact you to get access. We could say it is a **human-friendly** access protocol.
 
 For example:   
-<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/05-5.png" alt="UMC Urecht Access Protocol">
+<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/05-5.png" alt="UMC Urecht Access Protocol" width="390" height="380">
 
 <br>
 
@@ -141,11 +141,11 @@ We must remember that exposing data as a service would mean we need a server to 
 
 
 > ## Discussion  
-> Scenario:  
-You are a researcher of Sustainable Investment from the Economics department. After your research, you ended up possessing sensitive financial information of company figures that can not be disclosed since competitors could missuse this information. You will store the data in a secure envirnment but you would like to make it available for research purposes.   
-Note: The data is not about personal data  
+> **Access Protocols for Focus Groups Data?**  
+Focus groups are a data collection method. Data is collected through a semi-structured group interview process. A quick overview of the method is found in [Cohen D, Crabtree B. "Qualitative Research Guidelines Project." - 2006.](http://www.qualres.org/HomeFocu-3647.html)   
 > 
-> Discuss with your team what type of access protocols shall be considered in this case. 
+> - Discuss with your team all the different kinds of digital objects processed when conducting Focus Groups. For example, think of the Interview guidelines, the raw transcripts or the consent forms of the participants.   
+> - Discuss what could it be the suitable Access Protocol those digital objects collected in the Focus Group.  
 {: .discussion}
 
 
