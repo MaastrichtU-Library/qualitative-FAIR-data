@@ -55,18 +55,18 @@ Nowadays, data repositories have a friendly interface on which one can export th
 
 ## 2. How do we make sure data can be reused?
 
-Remember that a dataset or a data source is a digital object. So Digital Objects "live" on the web. Imagine they are like fishes in the sea 🐠🐠. The way to get picked up by a "fisherman" 🎣 i.e. a search engine (e.g. Google), is by describing these Digital Objects with Rich Metadata [(Episode 5)](https://maastrichtu-library.github.io/circular-research-data-bootcamp/06-rich-metadata/index.html). Moreover we can check the quality of discoverability of the Digital Objects by conducting automated tests.
+Remember that a dataset or a data source is a digital object. So Digital Objects "live" on the web. Imagine they are like fishes in the sea 🐠🐠. The way to get picked up by a "fisherman" 🎣 i.e. a search engine (e.g. Google), is by describing these Digital Objects with Rich Metadata [(Episode 5)](https://maastrichtu-library.github.io/qualitative-FAIR-data/06-rich-metadata/index.html). Moreover we can check the quality of discoverability of the Digital Objects by conducting automated tests.
 
 There are different available applications to test the discoverability of datasets for future reuse.
 
 For example:   
-In **Google Rich Results** [search.google.com/test/rich-results](https://search.google.com/test/rich-results), you can test whether a dataset is discoverable by other machines (e.g. Google bots)→ [LINK TO EXAMPLE](https://search.google.com/test/rich-results?url=http%3A%2F%2Fdoi.org%2F10.1594%2FPANGAEA.750883)  
+In **Google Rich Results** [search.google.com/test/rich-results](https://search.google.com/test/rich-results), you can test whether a dataset is discoverable by other machines (e.g. Google bots)→ [LINK TO EXAMPLE](https://search.google.com/test/rich-results/result?id=vQwCBt98I-8izEUmIVFQOQ)  
 
-<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/07-2.png" alt="google" style="width: 50%">
+<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/07-2-II.png" alt="google" width="700" height="360">
 
 After testing the URL of the data source, you will get the response from the Google bots. We aim to determine if the Google bots have found a structured dataset with the link we provided.
 
-<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/07-3.png" alt="google2" style="width: 50%">
+<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/07-3-II.png" alt="google2" width="700" height="470">
 
 > ## Following the FAIR principles, you ensure Rich Metadata
 > Rich metadata is necessary to be discoverable on the internet. Without testing it, your data can be virtually invisible on the web
@@ -131,7 +131,7 @@ For example:
 
 > ## Exercise - Level Easy 🌶
 >
-> 1. Visit the dataset you uploaded in the Data Archiving episode
+> 1. Visit the dataset you uploaded in the [Data Archiving](https://maastrichtu-library.github.io/qualitative-FAIR-data/05-data-archiving/index.html) episode
 > 2. Download the Rich Metadata file (JSON-LD) format  
 > **Question:** What similarities do you find with the above example?
 > {: .source}
@@ -147,9 +147,10 @@ For example:
 
 
 > ## Discussion  
-> Select datasets from previous examples    
-> Perform FAIR tests in [FAIR enough](https://fair-enough.semanticscience.org/)  
-> What can you tel from the FAIR scores  
+> Secondary use of Qualitative Data?  
+>
+> The UK Data Service provides an overview on **[Approaches to reusing qualitative data](https://ukdataservice.ac.uk/learning-hub/qualitative-data/reusing-qualitative-data/approaches-to-reusing-qualitative-data/)** such as *Comparative research*, *Reanalysis*, or *Learning and teaching*
+> - Discuss with your team how we can extend these categories for secondary use of Qualitative data  
 {: .discussion}
 
 

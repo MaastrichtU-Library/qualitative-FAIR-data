@@ -101,12 +101,6 @@ In [Episode 6 (Data Archiving)](https://maastrichtu-library.github.io/circular-r
 - Media: videos, images, 3D models 
 
 
-> ## How does your discipline share data?
->
-> Does your discipline have a data journal? Or some other mechanism to share data? For example, the American Astronomical Society (AAS), via the publisher IOP Physics, offers a [supplment series](http://iopscience.iop.org/journal/0067-0049/page/article-data) as a way for astronomers to publish data. 
-{: .discussion}
-
-
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
