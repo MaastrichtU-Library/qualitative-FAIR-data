@@ -37,6 +37,18 @@ keypoints:
 > During this sourcebook, we will be using "Machine-readable" and "Machine friendly" interchangeably. We like the term "friendly" since it can also include "machine-actionability" and "machine-interoperability."
 {: .prereq}
 
+
+> ## Exercise - Level Medium 🌶🌶
+> **Understanding the jargon of data "things"**
+> Data collection varies depending the field of research, therefore the digital object that is discribed.
+> - Task: Perform with your group a search of the following data "things" and discuss the meaning, similarity and differences of each one of them. 
+> - Dataset  
+> - Database  
+> - Data collection  
+> - Data type
+> - Data model    
+{: .challenge}
+
 ### 2. What are Digital Objects and Persistent Identifiers?
 
 A **Digital Object** is a bit sequence located in a digital memory or storage that has, on its own, informational value. For example:  
