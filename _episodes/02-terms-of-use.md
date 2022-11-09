@@ -169,7 +169,8 @@ Yes, there are two general License frameworks that can work for data.
 > Real case:  
 The Swedish DPA (Integritetsskyddsmyndigheten) fined Umeå University SEK 550,000 (EUR 54,000) as a result of its failure to apply appropriate technical and organizational measures to protect data. As part of a research project on male rape, the university had stored several police reports on such related incidents in the cloud of a U.S. service provider. The reports contained the names, ID numbers and contact details of the data subjects, as well as information about their health and sex lives, alongside information about the suspected crime [LINK TO CASE](https://www.enforcementtracker.com/ETid-482)
 > 
-> Discuss with your team how using legal instruments (in the context of the research) such as data terms of use or data protection impact assessment can be helpful in such situations.
+> - Discuss with your team how using legal instruments (in the context of the research) such as data terms of use or data protection impact assessment can be helpful in such situations.  
+> - Do you consider GDPR as a hinder to collecting qualitative data and making it FAIR? 
 {: .discussion}
 
 
