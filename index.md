@@ -9,7 +9,7 @@ h1 {text-align: center;}
 </style>
 
 <br>
-<h1>Edition II: Qualitative FAIR Data ♻️</h1>
+<h1>Qualitative FAIR Data ♻️</h1>
 <br>
 <hr>
 
@@ -28,7 +28,7 @@ Dates: November 10 and 11 , 2022
 
 The theme, **“Circular Research Data” (CDR)**, is inspired by the socio-economic transition we live through, moving from a linear to a circular model acknowledging sustainability. One of the barriers to research reproducibility is precisely this “linear” mindset. A significant share of the research output produced in the last decades has followed the linear model: 1) Take the data, 2) Analyze and publish it, 3) Dispose of the data. We have the responsibility to change into a circular model.
 
-<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/00-1.png" alt="6-step Checklist for Circular Research Data">
+<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/00-1-II.png" alt="Circular Research Data">
 
 Sometimes research involves collecting or handling qualitative data, like interviews or policy analyses. We will discuss the 6 steps of Research Data Management following the FAIR principles within the context of Open Science. You will look at real-world examples and learn the steps you need to take in your research to close the circle and achieve data sustainability following the **FAIR principles of research data management**.  
 
