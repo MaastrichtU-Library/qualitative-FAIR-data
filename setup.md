@@ -8,9 +8,8 @@ title: Setup
 > 
 > - Create a [DataverseNL](https://dataverse.nl/) account. If you are outside of the Netherlands, you can create an account at [Harvard Dataverse](https://dataverse.harvard.edu/)  
 > 
-> - Accept Slack invite to the [Bootcamp workspace](https://join.slack.com/t/slack-kqs7126/shared_invite/zt-1d190oswz-EWGEFrOmdubkDI~SHY~YdQ)
+> - Accept Slack invite to the [Coursebook workspace](https://join.slack.com/t/slack-kqs7126/shared_invite/zt-1d190oswz-EWGEFrOmdubkDI~SHY~YdQ)
 > 
-> - You can find the slides of the Introductory session in the following link to the slides [LINK](https://docs.google.com/presentation/d/e/2PACX-1vTxguxIFc_VPIiy9S4J9FdE6ZvYXr2zGauRnkQqxI9oMt8mJxnL1cH4SvwqaB87xj0WnwPBTmSFi1RB/pub?start=false&loop=false&delayms=5000)
 >
 {: .prereq}
 
