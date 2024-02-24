@@ -1,5 +1,5 @@
-# Circular Research Data Bootcamp
- 
-Please use the `gh-pages` branch [ROOT](https://github.com/MaastrichtU-Library/qualitative-FAIR-data/tree/gh-pages). 
+# Qualitative FAIR Data Coursebook
 
-Visit the coursebok at [SITE](https://maastrichtu-library.github.io/qualitative-FAIR-data/). 
+To access the materials, please navigate to the `gh-pages` branch at the [ROOT](https://github.com/MaastrichtU-Library/qualitative-FAIR-data/tree/gh-pages).
+
+To view the coursebook online, click the following [LINK](https://maastrichtu-library.github.io/qualitative-FAIR-data/).
